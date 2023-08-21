@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working for Tata Consultancy Services as Data Engineer<br>👯 I’m looking to collaborate BackEnd Development projects in Nodejs<br>🤝 I’m looking for help with learning Development<br>🌱 I’m currently learning Nodejs, Typescript, Reactjs<br>💬 Ask me about BackEnd Development
+- 🔭 I’m currently working for Tata Consultancy Services as Data Engineer
+- 👯 I’m looking to collaborate BackEnd Development projects in Nodejs
+- 🤝 I’m looking for help with learning Development
+- 🌱 I’m currently learning Nodejs, Typescript, Reactjs
+- 💬 Ask me about BackEnd Development 
+- 👨‍💻 All of my projects are available at [https://sushildubey.netlify.app/](https://sushildubey.netlify.app/)
+- 📝 I regularly write articles on [https://medium.com/@sushilanildubey](https://medium.com/@sushilanildubey)
 
 
 ## 🌐 Socials:
@@ -13,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushil-2803&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sushil-2803&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sushil-2803&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
